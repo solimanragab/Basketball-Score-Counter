@@ -5,6 +5,7 @@
 }
 body{
     background-image: url('bg_4.jpg');
+    background-repeat: no-repeat;
     background-size: contain;
     display: flex;
     justify-content: center;
